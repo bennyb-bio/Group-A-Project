@@ -1,0 +1,42 @@
+snomed;snomed_desc;icd;icd_desc
+22298006;Myocardial Infarction;I21.9;Myocardial infarction, unspecified
+25064002;Headache (finding);R51;Headache
+36955009;Loss of taste (finding);R43.1;Ageusia
+40095003;Injury of kidney (disorder);S37.9;Injury of kidney, unspecified
+43724002;Chill (finding);R68.83;Chills
+49436004;Atrial Fibrillation;I48.91;Unspecified atrial fibrillation
+49727002;Cough (finding);R05;Cough
+53741008;Coronary Heart Disease;I25.10;Atherosclerotic heart disease of native coronary artery
+56018004;Wheezing (finding);R06.2;Wheezing
+57676002;Joint pain (finding);M25.50;Pain in unspecified joint
+65710008;Acute respiratory failure (disorder);J96.0;Acute respiratory failure
+66857006;Hemoptysis (finding);R04.2;Hemoptysis
+67782005;Acute respiratory distress syndrome (disorder);J80;Acute respiratory distress syndrome
+68235000;Nasal congestion (finding);R09.81;Nasal congestion
+68962001;Muscle pain (finding);M79.1;Myalgia
+76571007;Septic shock (disorder);R65.21;Severe sepsis with septic shock
+84114007;Heart failure (disorder);I50.9;Heart failure, unspecified
+84229001;Fatigue (finding);R53.83;Other fatigue
+86175003;Injury of heart (disorder);S21.9;Injury of heart, unspecified
+87628006;Bacterial infectious disease (disorder);A49.9;Bacterial infection, unspecified
+230690007;Stroke;I63.9;Cerebral infarction, unspecified
+233604007;Pneumonia (disorder);J18.9;Pneumonia, unspecified
+234466008;Acquired coagulation disorder (disorder);D68.9;Coagulation defect, unspecified
+246677007;Passive conjunctival congestion (finding);H10.429;Other acute conjunctivitis, unspecified eye
+248595008;Sputum finding (finding);R09.2;Sputum
+249497008;Vomiting symptom (finding);R11;Nausea and vomiting
+267036007;Dyspnea (finding);R06.0;Dyspnea
+267060006;Diarrhea symptom (finding);R19.7;Diarrhea, unspecified
+267102003;Sore throat symptom (finding);R07.0;Sore throat
+271825005;Respiratory distress (finding);R06.01;Acute respiratory distress
+386661006;Fever (finding);R50.9;Fever, unspecified
+389087006;Hypoxemia (disorder);R09.02;Hypoxemia
+399211009;History of myocardial infarction (situation);Z86.73;Personal history of ischemic heart disease
+410429000;Cardiac Arrest;I46.9;Cardiac arrest, unspecified
+422587007;Nausea (finding);R11.0;Nausea
+429007001;History of cardiac arrest (situation);Z86.73;Personal history of ischemic heart disease
+706870000;Acute pulmonary embolism (disorder);I26.9;Pulmonary embolism, unspecified
+770349000;Sepsis caused by virus (disorder);A41.9;Sepsis, unspecified
+840539006;COVID-19;U07.1;COVID-19
+840544004;Suspected COVID-19;U07.2;COVID-19, virus not identified
+132281000119108;Acute deep venous thrombosis (disorder);I82.409;Acute venous embolism and thrombosis of unspecified deep veins of lower extremity
