@@ -66,6 +66,23 @@ graph TD;
 
 ## Ergebnisse
 
+### Datenqualität Mapping von SNOMED-CT und ICD-10
+* alle ICD-10 und SNOMED-CT-Codes haben das richtige Format
+* alle ICD-10-Codes haben eine Beschreibung
+* alle SNOMED-CT und ICD-10 Mappings sind Dublettenfrei
+* alle SNOMED-CT und ICD-10 mappings sind konsistent
+
+
+
+### Datenqualität Mapping von SNOMED-CT und LOINC
+* Kein passender SNOMED-CT für jeden LOINC
+* Ungültige Formate: QALY, DALY, QOLS
+* Alle Datensätze mit einem gültigen LOINC-Code besitzen auch einen Laborwert
+* alle SNOMED-CT und LOINC mappings sind konsistent
+* Es wurden 10 Dubletten im Datensatz mit validen LOINC-Codes festgestellt
+
+
+
 ## Diskussion
 
 ### International harmonisierte Daten-Qualitätsstandards
@@ -85,6 +102,22 @@ graph TD;
 | **Completeness (Vollständigkeit)** | Liegt eine Beschreibung vor (ICD-10)? | Fehlende Beschreibungen erschweren Verifikation und Validierung |
 | | Hat jeder LOINC-Code einen Laborwert? | Fehlende Werte beeinträchtigen die Datenvollständigkeit und deren klinische Nutzbarkeit |
 
+### Chancen / Potenziale
+
+**Eigenes Mapping-Konzept entwickeln:**
+- Ermöglicht eine Teilintegration  
+- Führt zu einer Verbesserung der Interoperabilität zwischen verschiedenen Systemen  
+
+### Herausforderungen / Einschränkungen
+
+**Lizenzbeschränkungen:**
+- Eingeschränkte Nutzung existierender Mapping-Tabellen  
+
+**Direkte 1:1-Zuordnungen:**
+- Nur begrenzt möglich (z. B. SNOMED-CT ↔ ICD-10, LOINC ↔ SNOMED-CT)  
+
+**Datenqualitätsstandards:**
+- Etablierte Standards sind nur bedingt anwendbar, da die externe Validierung durch Lizenzrestriktionen eingeschränkt ist  
 
 
 ## Perspektive
