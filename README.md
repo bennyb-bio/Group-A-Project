@@ -3,6 +3,10 @@
 Group for " Datenmanagement &amp; Archivierung im Umfeld der Forschung"
 
 ## Einleitung
+- Qualität klinischer Daten ist entscheidend für Versorgung, Forschung und Abrechnung
+- unterschiedliche Terminologien von ICD-10, LOINC und SNOMED-CT erschweren einheitliche Kodierung
+- Mapping-Konzepte können Inkonsistenzen reduzieren und die Datenqualität verbessern
+- resultierende Forschungsfrage "Wie können selbst entwickelte Mapping-Konzepte zur Sicherung und Steigerung der Datenqualität beitragen?"
 
 ## Methoden
 - Erarbeitung theoretischer Grundlagen zu ICD, SNOMED-CT und LOINC
