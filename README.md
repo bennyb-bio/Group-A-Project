@@ -5,7 +5,6 @@ Group for " Datenmanagement &amp; Archivierung im Umfeld der Forschung"
 ## Einleitung
 
 ## Methoden
-**Vorgehen**
 - Erarbeitung theoretischer Grundlagen zu ICD, SNOMED-CT und LOINC
 - Analyse der zur Verfügung gestellten CSV-Dateien
 - Fokusierung auf die Dateien patients.csv, conditions.csv, observations.csv
