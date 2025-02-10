@@ -17,12 +17,6 @@ Group for " Datenmanagement &amp; Archivierung im Umfeld der Forschung"
 - Prüfung der Datenvalidierung und -qualität in Google Colaboratory
 - Beantwortung der Forschungsfrage
 
-**Coding**
-- verwendete Bibliotheken: sqlite3, pandas, numpy, os, matplotlib.pyplot
-- Einlesen der Dateien map_snomed_icd und map_loinc_snomed.csv in pandas-Data-Frame
-- 
-
-
 ## Flowchart Mapping COVID ICD-10
 
 ```mermaid
