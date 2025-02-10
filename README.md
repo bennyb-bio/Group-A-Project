@@ -68,6 +68,8 @@ graph TD;
 
 ![icd1](images/snomed_icd1.jpg)
 
+![icd2](images/snomed_icd2.jpg)
+
 
 ### Datenqualität Mapping von SNOMED-CT und LOINC
 * Kein passender SNOMED-CT für jeden LOINC
@@ -76,7 +78,9 @@ graph TD;
 * alle SNOMED-CT und LOINC mappings sind konsistent
 * Es wurden 10 Dubletten im Datensatz mit validen LOINC-Codes festgestellt
 
+![loinc1](images/loinc1.jpg)
 
+![loinc2](images/loinc2.jpg)
 
 ## Diskussion
 
