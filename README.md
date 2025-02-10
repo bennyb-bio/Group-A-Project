@@ -124,3 +124,9 @@ graph TD;
 
 
 ## Perspektive
+Die Entwicklung präziser Mapping-Konzepte zwischen ICD-10, LOINC und SNOMED-CT ist essenziell, um die Qualität zu sichern und deren Nutzung für Entscheidungsunterstützung, Interoperabilität, KI-Training und internationale Vergleichbarkeit zu optimieren:
+- **Optimierung klinischer Entscheidungsunterstützung:** einheitliche Kodierung ermöglicht präzisere Diagnostik und Therapieempfehlungen
+- **Interoperabilität im Gesundheitswesen:** verbesserte Datenintegration zwischen Krankenhäusern, Forschungseinrichtungen und Gesundheitsbehöden
+- **Automatisierung und KI-Training:** hochwertige, standardisierte Daten sind essenziell für Machine Learning und klinische KI-Anwendungen
+- **Internationale Vergleichbarkeit:** einheitliche Terminologien erleichtern globale Studien und epidemiologische Analysen
+- **Qualitätskontrolle und Abrechnung:** konsistente Kodierung verbessert die Dokumentation und die medzinische Abrechnung
