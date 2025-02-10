@@ -66,6 +66,8 @@ graph TD;
 * alle SNOMED-CT und ICD-10 mappings sind konsistent
 
 
+![icd1](images/snomed_icd1.jpg)
+
 
 ### Datenqualität Mapping von SNOMED-CT und LOINC
 * Kein passender SNOMED-CT für jeden LOINC
