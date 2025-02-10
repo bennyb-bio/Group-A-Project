@@ -68,4 +68,23 @@ graph TD;
 
 ## Diskussion
 
+### International harmonisierte Daten-Qualitätsstandards
+
+**Definition der drei Hauptkategorien der Datenqualität (Michael G. Kahn et al., 2016):**
+
+1. **Konformität (Conformance)**: Übereinstimmung der Daten mit festgelegten Standards.
+2. **Vollständigkeit (Completeness)**: Ausmaß, in dem alle erforderlichen Daten vorhanden sind.
+3. **Plausibilität (Plausibility)**: Glaubwürdigkeit und logische Konsistenz der Daten.
+
+| **Kategorie nach Kahn et al.**         | **Datenqualitäts Punkt**                         | **Relevanz** |
+|--------------------------------------|--------------------------------|------------------------------------------------------|
+| **Conformance (Übereinstimmung)** | Ungemappte Daten | Fehlende Übereinstimmung mit Standards → erschwert Verifikation |
+| | Konsistentes Mapping | Einheitliche Kodierung notwendig für interne und externe Validierung |
+| | Richtige Formatierung (SNOMED-CT, ICD-10, LOINC) | Korrekte Anwendung erleichtert Verifikation & Validierung |
+| **Plausibility (Plausibilität)** | Dublettenkennung | Doppelte Einträge beeinträchtigen Glaubwürdigkeit der Daten |
+| **Completeness (Vollständigkeit)** | Liegt eine Beschreibung vor (ICD-10)? | Fehlende Beschreibungen erschweren Verifikation und Validierung |
+| | Hat jeder LOINC-Code einen Laborwert? | Fehlende Werte beeinträchtigen die Datenvollständigkeit und deren klinische Nutzbarkeit |
+
+
+
 ## Perspektive
