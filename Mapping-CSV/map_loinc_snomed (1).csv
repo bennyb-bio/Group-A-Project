@@ -1,0 +1,72 @@
+loinc;loinc_desc;snomed;snomed_desc
+14804-9;Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction; NA
+1742-6;Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma; 163515005;Alanine aminotransferase measurement
+1751-7;Albumin [Mass/volume] in Serum or Plasma; 104926008;Serum albumin measurement
+17861-6;Calcium [Mass/volume] in Serum or Plasma; 279000006;Calcium measurement, serum
+1920-8;Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma; 163513002;Aspartate aminotransferase measurement
+1960-4;Bicarbonate [Moles/volume] in Arterial blood; 11557-4;Bicarbonate (HCO3-) measurement in arterial blood
+1975-2;Bilirubin.total [Mass/volume] in Serum or Plasma; 28773-4;Bilirubin measurement, total (serum or plasma)
+1988-5;C reactive protein [Mass/volume] in Serum or Plasma; 302635004;C reactive protein measurement
+19994-3;Oxygen/Inspired gas setting [Volume Fraction] Ventilator; NA
+2019-8;Carbon dioxide [Partial pressure] in Arterial blood; 250608003;Carbon dioxide partial pressure measurement
+2028-9;Carbon dioxide total [Moles/volume] in Serum or Plasma; 11558-2;Carbon dioxide total measurement (serum or plasma)
+2075-0;Chloride [Moles/volume] in Serum or Plasma; 104959002;Chloride measurement
+2157-6;Creatine kinase [Enzymatic activity/volume] in Serum or Plasma; 104969000;Plasma creatine kinase measurement
+2160-0;Creatinine [Mass/volume] in Serum or Plasma; 129295002;Creatinine measurement, serum
+2276-4;Ferritin [Mass/volume] in Serum or Plasma; 314150008;Ferritin measurement
+2345-7;Glucose [Mass/volume] in Serum or Plasma; 14743-9;Glucose measurement (serum or plasma)
+2703-7;Oxygen [Partial pressure] in Arterial blood; 250614002;Oxygen partial pressure measurement in arterial blood
+2708-6;Oxygen saturation in Arterial blood; 103228002;Oxygen saturation measurement
+2744-1;pH of Arterial blood; 103228002;Arterial blood pH measurement
+2823-3;Potassium [Moles/volume] in Serum or Plasma; 104935003;Potassium measurement, serum
+2885-2;Protein [Mass/volume] in Serum or Plasma; NA
+29463-7;Body Weight; 27113001;Body weight
+2951-2;Sodium [Moles/volume] in Serum or Plasma; 129256006;Sodium measurement, serum
+3094-0;Urea nitrogen [Mass/volume] in Serum or Plasma; 310477003;Blood urea nitrogen measurement
+33914-3;Glomerular filtration rate/1.73 sq M.predicted; 431855005;Glomerular filtration rate estimation
+33959-8;Procalcitonin [Mass/volume] in Serum or Plasma; NA
+4544-3;Hematocrit [Volume Fraction] of Blood by Automated count; 365616003;Hematocrit measurement
+48065-7;Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma; 264227004;D-dimer measurement
+5902-2;Prothrombin time (PT); 304789004;Prothrombin time measurement
+5905-5;Monocytes/100 leukocytes in Blood by Automated count; 119391008;Monocyte count
+6301-6;INR in Platelet poor plasma by Coagulation assay; 333653003;International normalized ratio (INR)
+6690-2;Leukocytes [#/volume] in Blood by Automated count; 366456006;Leukocyte count
+6768-6;Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma; 104963009;Alkaline phosphatase measurement
+69453-9;Cause of Death [US Standard Certificate of Death]; NA
+704-7;Basophils [#/volume] in Blood by Automated count; 119389001;Basophil count
+706-2;Basophils/100 leukocytes in Blood by Automated count; 118222006;Basophil count
+711-2;Eosinophils [#/volume] in Blood by Automated count; 119390006;Eosinophil count
+713-8;Eosinophils/100 leukocytes in Blood by Automated count; 119390006;Eosinophil count
+718-7;Hemoglobin [Mass/volume] in Blood; 365616003;Hemoglobin measurement
+731-0;Lymphocytes [#/volume] in Blood by Automated count; 365570001;Lymphocyte count
+736-9;Lymphocytes/100 leukocytes in Blood by Automated count; 73796006;Lymphocyte count
+742-7;Monocytes [#/volume] in Blood by Automated count; 364012007;Monocyte count
+751-8;Neutrophils [#/volume] in Blood by Automated count; 39539005;Neutrophil count
+770-8;Neutrophils/100 leukocytes in Blood by Automated count; 360474003;Neutrophil count
+777-3;Platelets [#/volume] in Blood by Automated count; 415207003;Platelet count
+785-6;MCH [Entitic mass] by Automated count; 274770006;Mean corpuscular hemoglobin
+786-4;MCHC [Mass/volume] by Automated count; 35758008;Mean corpuscular hemoglobin concentration
+787-2;MCV [Entitic volume] by Automated count; 104931006;Mean corpuscular volume
+788-0;Erythrocyte distribution width [Ratio] by Automated count; NA
+789-8;Erythrocytes [#/volume] in Blood by Automated count; 365616003;Erythrocyte count
+80382-5;Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay; 441582007;Influenza virus A antigen test positive
+80383-3;Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay; 441584008;Influenza virus B antigen test positive
+8310-5;Body temperature; 56342008;Body temperature
+8462-4;Diastolic Blood Pressure; 271650006;Diastolic blood pressure
+8480-6;Systolic Blood Pressure; 271649006;Systolic blood pressure
+8867-4;Heart rate; 364075005;Heart rate
+89579-7;Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method; NA
+92130-4;Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection; NA
+92131-2;Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection; NA
+92134-6;Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection; NA
+92138-7;Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection; NA
+92139-5;Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection; NA
+92140-3;Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection; NA
+92141-1;Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection; NA
+92142-9;Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection; NA
+9279-1;Respiratory rate; 86290005;Respiratory rate
+94040-3;Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection; NA
+94531-1;SARS-CoV-2 RNA Pnl Resp NAA+probe; 840536004;SARS-CoV-2 RNA detection
+DALY;DALY; NA
+QALY;QALY; NA
+QOLS;QOLS; NA
