@@ -99,7 +99,6 @@ graph TD;
 | **Kategorie nach Kahn et al.**         | **Datenqualitäts Punkt**                         | **Relevanz** |
 |--------------------------------------|--------------------------------|------------------------------------------------------|
 | **Conformance (Übereinstimmung)** | Ungemappte Daten | Fehlende Übereinstimmung mit Standards → erschwert Verifikation |
-| | Konsistentes Mapping | Einheitliche Kodierung notwendig für interne und externe Validierung |
 | | Richtige Formatierung (SNOMED-CT, ICD-10, LOINC) | Korrekte Anwendung erleichtert Verifikation & Validierung |
 | **Plausibility (Plausibilität)** | Dublettenkennung | Doppelte Einträge beeinträchtigen Glaubwürdigkeit der Daten |
 | | Konsistentes Mapping | Einheitliche Kodierung notwendig für interne und externe Validierung |
