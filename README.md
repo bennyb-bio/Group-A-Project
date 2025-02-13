@@ -102,6 +102,7 @@ graph TD;
 | | Konsistentes Mapping | Einheitliche Kodierung notwendig für interne und externe Validierung |
 | | Richtige Formatierung (SNOMED-CT, ICD-10, LOINC) | Korrekte Anwendung erleichtert Verifikation & Validierung |
 | **Plausibility (Plausibilität)** | Dublettenkennung | Doppelte Einträge beeinträchtigen Glaubwürdigkeit der Daten |
+|  Konsistentes Mapping | Einheitliche Kodierung notwendig für interne und externe Validierung |
 | **Completeness (Vollständigkeit)** | Liegt eine Beschreibung vor (ICD-10)? | Fehlende Beschreibungen erschweren Verifikation und Validierung |
 | | Hat jeder LOINC-Code einen Laborwert? | Fehlende Werte beeinträchtigen die Datenvollständigkeit und deren klinische Nutzbarkeit |
 
